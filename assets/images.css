@@ -1,0 +1,13 @@
+/* ====== IMAGES DU SITE ======
+   Remplacez chaque url(...) par une photo du club, ex. url('../photos/hero.jpg') */
+:root{
+  --img-hero: url('https://images.pexels.com/photos/14552791/pexels-photo-14552791.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-edr: url('https://cdn.pixabay.com/photo/2020/09/09/02/27/kids-5556307_1280.jpg');
+  --img-jeunes: url('https://images.pexels.com/photos/34085839/pexels-photo-34085839.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-jeunes2: url('https://images.pexels.com/photos/33879951/pexels-photo-33879951.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-seniors: url('https://images.pexels.com/photos/20192745/pexels-photo-20192745.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-seniors2: url('https://images.pexels.com/photos/20192761/pexels-photo-20192761.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-training: url('https://images.pexels.com/photos/19082794/pexels-photo-19082794.jpeg?auto=compress&cs=tinysrgb&w=1800');
+  --img-ball: url('https://images.unsplash.com/photo-1698746019802-ec43b1b0db29?fm=jpg&q=70&w=1800');
+  --img-match: url('https://images.pexels.com/photos/35102701/pexels-photo-35102701.jpeg?auto=compress&cs=tinysrgb&w=1800');
+}

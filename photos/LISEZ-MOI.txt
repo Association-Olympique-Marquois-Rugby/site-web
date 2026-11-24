@@ -1,0 +1,1 @@
+Déposez ici les photos du club puis référencez-les dans assets/images.css.

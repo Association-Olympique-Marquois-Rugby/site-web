@@ -1,0 +1,16 @@
+OMR Association – crédits des photos d’illustration
+=====================================================
+Photos libres de droits (Pexels, Pixabay, Unsplash), chargées en ligne. Temporaires.
+
+POUR LES REMPLACER : modifiez uniquement assets/images.css
+(ex. --img-hero: url('../photos/hero.jpg');  — chemin relatif au dossier assets/)
+
+--img-hero      Pexels – Sketch Photo              https://www.pexels.com/photo/young-men-playing-rugby-14552791/
+--img-edr       Pixabay                            https://pixabay.com/
+--img-jeunes    Pexels – Ollie Craig               https://www.pexels.com/photo/young-athletes-training-on-a-rugby-field-34085839/
+--img-jeunes2   Pexels                             https://www.pexels.com/photo/youth-rugby-players-practicing-on-sunny-day-33879951/
+--img-seniors   Pexels                             https://www.pexels.com/photo/men-playing-rugby-20192745/
+--img-seniors2  Pexels                             https://www.pexels.com/photo/men-in-rugby-training-20192761/
+--img-training  Pexels                             https://www.pexels.com/photo/rugby-players-in-training-19082794/
+--img-ball      Unsplash                           https://unsplash.com/s/photos/rugby-ball
+--img-match     Pexels – Cristian Camilo Estrada   https://www.pexels.com/photo/action-packed-rugby-match-on-green-field-35102701/
